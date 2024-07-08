@@ -1,0 +1,21 @@
+use it_obs;
+create table customers(ID int unique not null ,Name varchar(20),Username varchar(12),password varchar(8));
+select * from customers;
+
+insert into customers values(5,'jk','k','k'),(1,'yh','kj','123'),(3,'ed','tyh','l65');
+select * from customers;
+
+select Name,id from customers group by name; 
+
+update customers set password="ju" where username='k' or name='yh';
+select * from customers;
+
+delete from customers where id=5 and name="jk";
+select * from customers;
+
+alter table customers modify column password float(5);
+update customers set password =2.1 where id=1;
+select * from customers;
+
+drop table customers;
+select * from customers;

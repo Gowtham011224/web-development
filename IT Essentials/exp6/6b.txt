@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Customize</title>
+    <style>
+        body {
+            background-color:white;
+            color: crimson;
+        }
+          
+        input {
+            height: 10px;
+            width: 65px;
+        }
+    </style>
+</head>
+
+<body>
+    <center>
+        <h1>Pets</h1>
+        <p id="dem">A pet, or companion animal, is an animal kept primarily for a
+person's company or entertainment rather than as a working animal or a laboratory animal.
+Pets are often considered to have attractive and cute appearances, intelligence, and 
+relatable personalities.</p>
+        <button onclick="document.getElementById('dem').style.fontWeight='BOLD'">BOLD</button>
+        <button onclick="document.getElementById('dem').style.fontWeight='normal'">NORMAL</button>
+        <button onclick="document.getElementById('dem').style.fontStyle='italic'">ITALIC</button><br><br>
+        <input type="color" id="col">
+        <button onclick="document.getElementById('dem').style.color=document.getElementById('col').value">APPLY</button>
+        <input type="color" id="bcol">
+        <button onclick="document.body.style.backgroundColor=document.getElementById('bcol').value">APPLY</button>
+        <input type="text" id="ffam" >
+        <button onclick="document.body.style.fontFamily=document.getElementById('ffam').value">APPLY</button>
+        
+    </center>
+
+</body>
+
+</html>

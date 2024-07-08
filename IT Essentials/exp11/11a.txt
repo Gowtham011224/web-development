@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Customer SignUp</title>
+<link rel="icon" href="img3.jpg">
+<style>
+form,table,td{padding:20px;}
+button{color:white;background:teal;padding:5px;}
+</style>
+</head>
+<body>
+<h3>Fill in the following details</h3><hr>
+<form action="11a_mysqlcmds.php" method="POST" >
+<table>
+<tr><td>
+Name :</td>
+<td><input type="text" " name="name" required><font color="red">*</font>
+</td></tr><tr><td>
+Username :</td> 
+<td><input type="text" name="uname" required><font color="red">*</font>
+</td></tr><tr><td>
+Set Password :</td> 
+<td><input type="password" maxlength='8' minlength='8' name="pwd" required ><font color="red">*</font>
+</td></tr><tr><td>
+Unique ID :</td> 
+<td><input type="text" name="id" maxlength='4' minlength='4' required><font color="red">*</font>
+</td></tr>
+</table>
+<button type="submit" >Submit record</button>  <button type="reset">Reset</button>
+</form>
+
+</body>
+</html>

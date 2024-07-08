@@ -1,0 +1,8 @@
+get input using form and enter record to table
+
+get input from user, update 
+
+select details from table and display it in webpage atleast 4 conditions including pattern matching,constraint,logical and order by.
+
+get input from checkbox and display the columns in table.
+

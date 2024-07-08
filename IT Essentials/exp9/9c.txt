@@ -1,0 +1,30 @@
+create database it_obs;
+use it_obs;
+
+create table students(Roll_No int,Name varchar(20),
+Department varchar(20),Marks int,Native varchar(20));
+
+insert into students values(123,"Ram","IT",85,"Tirchi");
+insert into students values(213,"Pavan","RPT",55,"Erode");
+insert into students values(084,"Sam","IT",91,"Madurai");
+insert into students values(256,"Shella","CT",32,"Chennai");
+insert into students values(421,"Hella","CT",82,"Chennai");
+insert into students values(851,"Ram","PT",94,"Dindugal");
+insert into students values(56,"Megha","AERO",69,"Nellai");
+insert into students values(951,"Bala","PT",60,"Karaikudi");
+insert into students values(851,"Sam","PT",44,"Dindugal");
+insert into students values(541,"Paul","RPT",91,"Kancheepuram");
+
+select * from students where Department="IT";
+ 
+select * from students where marks>80;
+
+select * from students where marks<50;
+
+update students
+    set marks=45
+    where roll_no=325 and name="Sooraj";
+
+delete from students where roll_no=542 and marks=99;
+
+select * from students;

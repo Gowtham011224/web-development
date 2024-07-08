@@ -1,0 +1,17 @@
+
+		Details         
+NAME				:  
+D.O.B				: 
+GENDER				: 
+AGE				: 
+MARITAL STATUS			: 
+EDUCATIONAL QUALIFICATIONS	: 
+HOBBIES				: 
+MAIL ID				: 
+CONTACT NUMBER			: 
+USERNAME			: 
+PASSWORD			: 
+ADDRESS				: 
+PINCODE				: 
+STATE				: 
+COUNTRY				: 

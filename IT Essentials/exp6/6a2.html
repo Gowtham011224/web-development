@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Form</title>
+<style>
+table,td{border:2px solid black;padding:15px;}
+</style>
+</head>
+<body>
+
+<table align="center" style="border-collapse:collapse">
+<caption style="font-size:150%;"><b>Details</b></caption>
+<tr>
+<td>Name</td>
+<td><span id="r1"></span> <span id="r2"></span></td>
+</tr>
+<tr>
+<td>Date of Birth</td>
+<td><span id="r3"></span></td>
+</tr>
+<tr>
+<td>Gender</td>
+<td><span id="r4"></span></td>
+</tr>
+<tr>
+<td>Age</td>
+<td><span id="r5"></span></td>
+</tr>
+<tr>
+<td>Marital Status</td>
+<td><span id="r6"></span></td>
+</tr><tr>
+<td>Educational qualifications</td>
+<td><span id="r7"></span></td>
+</tr>
+<tr>
+<td>Hobbies</td>
+<td><span id="r8"></span></td>
+</tr>
+<tr>
+<td>Email ID</td>
+<td><span id="r9"></span></td>
+</tr>
+<tr>
+<td>Contact Number</td>
+<td><span id="r10"></span></td>
+</tr>
+<tr>
+<td>Username</td>
+<td><span id="r11"></span></td>
+</tr>
+<tr>
+<td>Password</td>
+<td><span id="r12"></span></td>
+</tr><tr>
+<td>Address</td>
+<td><span id="r13"></span></td>
+</tr>
+<tr>
+<td>Country</td>
+<td><span id="r14"></span></td>
+</tr>
+<tr>
+<td>State</td>
+<td><span id="r15"></span></td>
+</tr>
+<tr>
+<td>Pincode</td>
+<td><span id="r16"></span></td>
+</tr>
+</table>
+
+<script>
+document.getElementById("r1").innerHTML=localStorage.getItem("fnamevalue"); 
+document.getElementById("r2").innerHTML=localStorage.getItem("lnamevalue"); 
+document.getElementById("r3").innerHTML=localStorage.getItem("dobvalue"); 
+document.getElementById("r4").innerHTML=localStorage.getItem("gdvalue"); 
+document.getElementById("r5").innerHTML=localStorage.getItem("agevalue"); 
+document.getElementById("r6").innerHTML=localStorage.getItem("marvalue"); 
+document.getElementById("r7").innerHTML=localStorage.getItem("eqvalue"); 
+document.getElementById("r8").innerHTML=localStorage.getItem("hbvalue"); 
+document.getElementById("r9").innerHTML=localStorage.getItem("mlvalue"); 
+document.getElementById("r10").innerHTML=localStorage.getItem("numvalue"); 
+document.getElementById("r11").innerHTML=localStorage.getItem("unamevalue"); 
+document.getElementById("r12").innerHTML=localStorage.getItem("pwdvalue"); 
+document.getElementById("r13").innerHTML=localStorage.getItem("addvalue"); 
+document.getElementById("r14").innerHTML=localStorage.getItem("ctvalue"); 
+document.getElementById("r15").innerHTML=localStorage.getItem("stvalue"); 
+document.getElementById("r16").innerHTML=localStorage.getItem("pnvalue"); 
+
+</script>
+</body>
+</html>
+
