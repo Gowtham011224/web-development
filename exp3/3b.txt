@@ -1,0 +1,233 @@
+<!DOCTYPE>
+<html>
+<head>
+<title>obs3b</title>
+<style>
+    h4{color:olive;font-size:150%;}
+    body{background-color:lemonchiffon;}
+    table,th,td{border:1px solid black;text-align:center;font-size:125%;}
+</style>
+
+<link rel="stylesheet" href="ext.css">
+</head>
+<body>  
+<h3 style="background-color: lightcoral;">This web page is about my personal data😎</h3>
+<hr>
+<h4><b>INFO:</b></h4>
+<p>Name:Gowtham Rajasekaran<br>Age:18<br></p>
+<p><em><b>Contact details:</b></em><br>
+9344002774<br>
+gowtham.raja211224@gmail.com</p>
+<p>I was born on 1 December 2004,to an Indian family in Madurai,
+a district in the State of Tamil Nadu.</p>
+<p>Address:<br> 159B,Renganayaki street,Kamarajar salai,Madurai 625 009.</p>   
+<h4><b>My happy family!😃</b></h4>
+<p style="border:2px solid Tomato">My dad's name is Rajasekaran P,he practices law as well is a commissioner of oaths.
+<br>My mom's name is Thilagavathy R,she is a house wife.
+<br>I have an elder sibling,his name is Sanjay.Sanjay had completed his undergraduate
+<br>in B.E. Computer Science and is currently working in Zoho Corporation,Chennai.</p>
+<hr>
+<p>My hobbies include cycling,watching web series and movies,
+listening to music and I also like to play video games.</p>
+<img src="D:\html\exp2\collage.jpg" width="350" height="350">
+<hr>
+<p>I did my schooling at VMJ School in madurai and am currently
+pursuing my U.G degree in Madras Instituite of Technology,Chennai.</p>
+<img src="D:\html\exp2\collage2.jpg" width="250" height="250">
+<img src="D:\html\exp2\c3.jpg" width="250" height="250">
+<hr>
+<p style="font-family:verdana;">I am not sure about my future plans,am always used to go with the flow!!😁👍👍<br>
+but am sure that I will always do what gives me happiness.</p>
+<p style="font-size:200%;">Thank you guys for sparing time to view my page.</p>
+<hr>
+<body style="background-color:lightgray;">
+<h2>Syllabus</h2>
+<h3>Semester I</h3>
+<ul style="list-style-type:circle;font-size:125%;">
+	<li>Technical English</li>
+	<li>Engineering Mathematics I</li>
+	<li>Engineering Chemistry7</li>
+	<li>Engineering Physics</li>
+	<li>Python Programming</li>
+	<li>Tamil Marabu</li>
+</ul>
+<ol style="font-size:125%;" type='a'>
+	<li>Python Programming-lab</li>
+	<li>BSAH-lab</li>
+	<li>Technical English-lab</li>
+</ol>
+
+<h3>Semester II</h3>
+<ul style="list-style-type:circle;font-size:125%;">
+	<li>Professional Communication</li>
+	<li>Engineering Mathematics II</li>
+	<li>Engineering Graphics</li>
+	<li>Basics of Electrical and Electronical Engineering</li>
+	<li>Information Technology Essentials</li>
+	<li>Tamils and Technology</li>
+</ul>
+<ol style="font-size:125%;" type='a'>
+	<li>BEEE-lab</li>
+	<li>IT-Essentials-lab</li>
+	<li>Professional Communication-lab</li>
+</ol>
+<h3>Semester III</h3>
+<ul style="list-style-type:circle;font-size:125%;">
+	<li>Discrete Mathematics</li>
+	<li>Digital Logic and Design</li>
+	<li>Programming and Data Structures</li>
+	<li>Database Management Systems</li>
+	<li>Software Engineering</li>
+	<li>Electives – Humanities I</li>
+</ul>
+<ol style="font-size:125%;" type='a'>
+	<li>Programming and Data Structures Laboratory</li>
+	<li>Database Management Systems Laboratory</li>
+	<li>Professional Development</li>
+</ol>
+
+<h3>Semester IV</h3>
+<ul style="list-style-type:circle;font-size:125%;">
+	<li>Environmental Sciences</li>
+	<li>Object Oriented Programming and Advanced Data Structures</li>
+	<li>Design and Analysis of Algorithms</li>
+	<li>Operating Systems</li>
+	<li>Computer Architecture</li>
+	<li>Electives – Humanities II</li>
+</ul>
+<ol style="font-size:125%;" type='a'>
+	<li>Operating Systems Laboratory</li>
+	<li>Advanced Data Structures Laboratory</li>
+</ol>
+
+<h3>Semester V</h3>
+<ul style="list-style-type:circle;font-size:125%;">
+	<li>Compiler Engineering</li>
+	<li>Computer Networks</li>
+	<li>Web Technologies</li>
+	<li>Electives – Humanities I</li>
+	<li>Professional Elective I</li>
+	<li>Professional Elective II</li>
+</ul>
+<ol style="font-size:125%;" type='a'>
+	<li>Computer Networks-lab</li>
+	<li>Web Technologies-lab</li>
+	<li>Summer Internship / Summer Project (Minimum 4 Weeks)</li>
+</ol>
+
+<h3>Semester VI</h3>
+<ul style="list-style-type:circle;font-size:125%;">
+	<li>Embedded Systems and Internet of Things</li>
+	<li>Data Science and Analytics</li>
+	<li>Distributed and Cloud Computing</li>
+	<li>Professional Elective III</li>
+	<li>Professional Elective IV</li>
+	<li>Open Elective I</li>
+</ul>
+<ol style="font-size:125%;" type='a'>
+	<li>Embedded Systems and Internet of Things Laboratory</li>
+	<li>Data Analytics and Cloud Computing Laboratory</li>
+	<li>Socially Relevant Project Laboratory</li>
+</ol>
+
+<h3>Semester VII</h3>
+<ul style="list-style-type:circle;font-size:125%;">
+	<li>Artificial Intelligence</li>
+	<li>Mobile Computing</li>
+	<li>Cryptography and Security</li>
+	<li>Professional Elective V</li>
+	<li>Professional Elective VI</li>
+	<li>Open Elective II</li>
+</ul>
+<ol style="font-size:125%;" type='a'>
+	<li>Mobile and Security Laboratory</li>
+	<li>Project I</li>
+</ol>
+<h3>Semester VIII</h3>
+<ul style="list-style-type:circle;font-size:125%;">
+	<li>Professional Elective VII</li>
+</ul>
+<ol style="font-size:125%;" type='a'>
+	<li>Project II</li>
+	
+</ol>
+<hr>
+<table>
+<caption><h3>My class time table:</h3></caption>
+	<tr>
+	<th>Day</th>
+	<th>1 (8:30a.m to 9:20a.m)</th> 
+ <th>2 (09:20a.m to 10:10a.m)</th> <th>3 (10:30a.m to 11:20a.m)</th> <th>4 (11:20a.m to 12:10p.m)</th> 
+ <th rowspan="6">LUNCH (12:10p.m to 1:10p.m)</th> <th>5 (1:10p.m to 2:00p.m)</th> 
+ <th>6 (2:00p.m to 2:50p.m)</th> <th>7 (2:50p.m to 3:40p.m)</th> <th>8 (3:40p.m to 4:30p.m)</th>
+	</tr>
+	<tr>
+	<td>Monday</td>
+	<td colspan="2">Maths</td> <td>ITE-theory</td> <td>Library</td> <td colspan="4"></td>
+	</tr>
+	<tr>
+	<td>Tuesday</td>
+	<td colspan="4">ITE-lab</td> <td colspan="2">Maths</td> <td>BEEE-theory</td> <td></td>
+	</tr>
+	<tr>
+	<td>Wednesday</td>
+	<td colspan="4">BEEE-lab</td> <td colspan="4">English-lab</td> 
+	</tr>
+	<tr>
+	<td>Thursday</td>
+	<td>Tamil</td> <td>ITE-theory</td> <td colspan="2">English</td> <td colspan="4"></td>
+	</tr>
+	<tr>
+	<td>Friday</td>
+	<td colspan="2">BEEE-theory</td> <td>E.Graphics</td> <td>ITE-theory</td> <td colspan="4">E.Graphics</td>
+	</tr>
+</table>
+<br><hr>
+<table>
+	<caption><h3>My personal time table:</h3></caption>
+	<tr>
+	<th>Day</th>
+	<th>6:30a.m to 8:00a.m</th> <th>8:00a.m to 8:30a.m</th> <th>8:30a.m to 4:30p.m</th>
+ <th>4:30p.m to 5:00p.m</th> <th>5:00p.m to 8:30p.m</th> 
+ <th>8:30p.m to 9:30p.m</th> <th>9:30p.m to 6:30a.m</th> 
+	</tr>
+	<tr>
+	<td>Monday</td>
+	<td>Getting ready</td> <td>Reaching college</td> <td>Time in college</td> <td>Reaching hostel</td>
+	<td>Study/Play time</td> <td>Dinner</td> <td>Sleep</td>
+	</tr>
+	<tr>
+	<td>Tuesday</td>
+	<td>Getting ready</td> <td>Reaching college</td> <td>Time in college</td> <td>Reaching hostel</td>
+	<td>Study/Play time</td> <td>Dinner</td> <td>Sleep</td>
+	</tr>
+	<tr>
+	<td>Wednesday</td>
+	<td>Getting ready</td> <td>Reaching college</td> <td>Time in college</td> <td>Reaching hostel</td>
+	<td>Study/Play time</td> <td>Dinner</td> <td>Sleep</td>
+	</tr>
+	<tr>
+	<td>Thursday</td>
+	<td>Getting ready</td> <td>Reaching college</td> <td>Time in college</td> <td>Reaching hostel</td>
+	<td>Study/Play time</td> <td>Dinner</td> <td>Sleep</td>
+	</tr>
+	<tr>
+	<td>Friday</td>
+	<td>Getting ready</td> <td>Reaching college</td> <td>Time in college</td> <td>Reaching hostel</td>
+	<td>Study/Play time</td> <td>Dinner</td> <td>Sleep</td>
+	</tr>
+	<tr>
+	<td>Saturday</td>
+	<td colspan="2">Sleep</td>  <td colspan="3">Study/Prepare/Game/Room Cleaning</td> 
+	<td>Dinner</td> <td>Sleep</td>
+	</tr>
+	<tr>
+	<td>Sunday</td>
+	<td colspan="2">Sleep</td>  <td colspan="3">Study/Prepare/Game/Room Cleaning</td> 
+	<td>Dinner</td> <td>Sleep</td>
+	</tr>
+</table>
+
+</body>
+</html>
+

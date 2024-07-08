@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Fibonacci series</title>
+</head>
+<body>
+<h1>FIBONACCI CALCULATOR</h1>
+<form>
+<input type="text" name="num" id="num" placeholder="Enter nth number"><br>
+<input type="button" onclick="fib()" value="get output"><br>
+Series:
+<p id="x"></p>
+</form>
+<script>
+function fib()
+{
+var n=1,n1=0,n2=1,n3,st="";
+var i=parseInt(document.getElementById("num").value);
+if (i>0)
+{st=st+n1;
+n++;}
+if(i>1)
+{st=st+','+n2;
+n++;}
+while(n<=i)
+{n3=n2+n1;
+n1=n2;
+n2=n3;
+st=st+','+n3;
+n++;}
+document.getElementById("x").innerHTML=st;
+}
+</script>
+</body>
+</html>
+
+
+

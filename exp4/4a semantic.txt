@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>NEWS</title>
+</head>
+<body style="background-color:Gainsboro;">
+Date:01-05-2023
+<header style="background-color:lightblue;" align="center";>
+<b><h1><u>THE ROMANS NEWS</u><h1></b>
+</header>
+<nav style="background-color:black;color:Crimson">
+<a href="/hm/">HOME</a> |
+<a href="/sprts/">SPORTS</a> |
+<a href="/edu/">EDUCATION</a> |
+<a href="/polt/">POLITICS</a>
+<marquee direction="left"><b>BREAKING NEWS:5 arrested as murder
+ suspects near Park Avenue,Chennai.</marquee>
+</b>
+</nav>
+<section>
+
+<aside style="float:right;background-color:white">
+<p>WANNA BEAT THE HEAT<br>FOR SUMMER??<br>
+<i>What are you waiting for?<br>
+<a href="/coke/">GRAB A COKE!!</a></i></p><br>
+<img src="coke.jpg" width="175" height="150"><br>
+<img src="coke2.jpg" width="175" height="150"><br>
+</aside>
+
+<p style="font-size:150%"><em><b>IPL 2023: Lucknow Super Giants skipper KL Rahul suffers 
+injury, leaves field in pain.</em></b>
+<br>
+NEW DELHI: Lucknow Super Giants (LSG) team on Monday dealt a 
+major blow after their skipper KL Rahul suffered a thigh muscle
+injury on his right leg during their Indian Premier League (IPL) 
+match against RCB at the Ekana Cricket Stadium in Lucknow.
+The incident happened during the last ball of the second 
+over when RCB captain Faf du Plessis went for a drive 
+towards wide of cover and Rahul gave it a good chase before 
+pulling up his thigh muscle just before the boundary rope. 
+Rahul immediately fell on the ground grimacing in pain as 
+few of his teammates came to check him.</p>
+</section>
+
+<details>
+	<summary>RCB</summary>
+	<p style="font-size: medium; text-align: left;">
+	Royal Challengers Bangalore (often abbreviated as RCB) are a 
+franchise cricket team based in Bengaluru, Karnataka, that plays in the 
+Indian Premier League (IPL). It was founded in 2008 by United Spirits and 
+named after the company's liquor brand Royal Challenge.	
+</p>
+</details>
+<details>
+	<summary>LSG</summary>
+	<p style="font-size: medium; text-align: left;">
+	Lucknow Super Giants is a franchise cricket team based in Lucknow, 
+Uttar Pradesh. They play in the Indian Premier League (IPL).The Lucknow 
+franchise formed in 2021. Sanjeev Goenka is its principal owner. 
+The team is captained by KL Rahul and coached by Andy Flower.
+</p>
+</details>
+<hr><footer>
+<b>FOR MORE INFO ABOUT THIS PAGE PRESS 
+<a href="/m/">MORE</a></b><br>
+TO CONTACT: call 93152 45002 or email news@mail.com
+</footer> 
+
+</body>
+</html>

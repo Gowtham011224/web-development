@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Number</title>
+</head>
+<body>
+<h1>Check if number is odd or even!!</h1>
+<form>
+Enter number:
+<input type="text" name="num" id="num">
+<button name="operation" onclick="oddeven()">Press</button>
+</form>
+<script>
+function oddeven()
+{
+var n=parseInt(document.getElementById("num").value)
+if(n%2==0)
+alert("Even number");
+else
+alert("Odd number");
+}
+</script>
+</body>
+</html>

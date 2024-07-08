@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Factorial</title>
+</head>
+<body>
+<form>
+<h1><b>Factorial Calculator</b></h1>
+<input type="text" name="number" id="num" placeholder="Enter the number"><br>
+<input type="button" name="sol" value="Solve" onclick="fact()"><br>
+<input type="text" name="ans" id="ans" placeholder="Answer">
+</form>
+<script>
+function fact()
+{
+var i,p=1;
+v=parseInt(document.getElementById("num").value);
+for(i=v;i>0;i--)
+p*=i;
+document.getElementById("ans").value=p;
+}
+</script>
+</body>
+</html>

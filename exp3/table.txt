@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html>
+<head><title>TimeTable</title>
+<style>
+	table,th,td{border:1px solid black;text-align:center;}
+</style>
+</head>
+
+<body style="font-size:125%;">
+
+<table>
+<caption>My class time table:</caption>
+	<tr>
+	<th>Day</th>
+	<th>1 (8:30a.m to 9:20a.m)</th> 
+ <th>2 (09:20a.m to 10:10a.m)</th> <th>3 (10:30a.m to 11:20a.m)</th> <th>4 (11:20a.m to 12:10p.m)</th> 
+ <th rowspan="6">LUNCH (12:10p.m to 1:10p.m)</th> <th>5 (1:10p.m to 2:00p.m)</th> 
+ <th>6 (2:00p.m to 2:50p.m)</th> <th>7 (2:50p.m to 3:40p.m)</th> <th>8 (3:40p.m to 4:30p.m)</th>
+	</tr>
+	<tr>
+	<td>Monday</td>
+	<td colspan="2">Maths</td> <td>ITE-theory</td> <td>Library</td> <td colspan="4"></td>
+	</tr>
+	<tr>
+	<td>Tuesday</td>
+	<td colspan="4">ITE-lab</td> <td colspan="2">Maths</td> <td>BEEE-theory</td> <td></td>
+	</tr>
+	<tr>
+	<td>Wednesday</td>
+	<td colspan="4">BEEE-lab</td> <td colspan="4">English-lab</td> 
+	</tr>
+	<tr>
+	<td>Thursday</td>
+	<td>Tamil</td> <td>ITE-theory</td> <td colspan="2">English</td> <td colspan="4"></td>
+	</tr>
+	<tr>
+	<td>Friday</td>
+	<td colspan="2">BEEE-theory</td> <td>E.Graphics</td> <td>ITE-theory</td> <td colspan="4">E.Graphics</td>
+	</tr>
+</table>
+<br><hr>
+<table>
+	<caption>My personal time table:</caption>
+	<tr>
+	<th>Day</th>
+	<th>6:30a.m to 8:00a.m</th> <th>8:00a.m to 8:30a.m</th> <th>8:30a.m to 4:30p.m</th>
+ <th>4:30p.m to 5:00p.m</th> <th>5:00p.m to 8:30p.m</th> 
+ <th>8:30p.m to 9:30p.m</th> <th>9:30p.m to 6:30a.m</th> 
+	</tr>
+	<tr>
+	<td>Monday</td>
+	<td>Getting ready</td> <td>Reaching college</td> <td>Time in college</td> <td>Reaching hostel</td>
+	<td>Study/Play time</td> <td>Dinner</td> <td>Sleep</td>
+	</tr>
+	<tr>
+	<td>Tuesday</td>
+	<td>Getting ready</td> <td>Reaching college</td> <td>Time in college</td> <td>Reaching hostel</td>
+	<td>Study/Play time</td> <td>Dinner</td> <td>Sleep</td>
+	</tr>
+	<tr>
+	<td>Wednesday</td>
+	<td>Getting ready</td> <td>Reaching college</td> <td>Time in college</td> <td>Reaching hostel</td>
+	<td>Study/Play time</td> <td>Dinner</td> <td>Sleep</td>
+	</tr>
+	<tr>
+	<td>Thursday</td>
+	<td>Getting ready</td> <td>Reaching college</td> <td>Time in college</td> <td>Reaching hostel</td>
+	<td>Study/Play time</td> <td>Dinner</td> <td>Sleep</td>
+	</tr>
+	<tr>
+	<td>Friday</td>
+	<td>Getting ready</td> <td>Reaching college</td> <td>Time in college</td> <td>Reaching hostel</td>
+	<td>Study/Play time</td> <td>Dinner</td> <td>Sleep</td>
+	</tr>
+	<tr>
+	<td>Saturday</td>
+	<td colspan="2">Sleep</td>  <td colspan="3">Study/Prepare/Game/Room Cleaning</td> 
+	<td>Dinner</td> <td>Sleep</td>
+	</tr>
+	<tr>
+	<td>Sunday</td>
+	<td colspan="2">Sleep</td>  <td colspan="3">Study/Prepare/Game/Room Cleaning</td> 
+	<td>Dinner</td> <td>Sleep</td>
+	</tr>
+</table>
+
+</body>
+</html>

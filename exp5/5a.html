@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>MINI CALCULATOR</title>
+</head>
+<body style="font-size:200%;background-image:url('math.jpg');">
+<h1 style="border:5px solidblack">CALCULATOR</h1>
+
+<div style="border:2px solid black;background-color:Lightgray;padding:30px;
+margin:50px;width:600px;">
+For Addition:<br>
+ <input type="text" id="n1" placeholder="Enter number">+<input type="text" id="n2" placeholder="Enter number">
+<button onclick="add()">=</button> <input type="text" id="add" value="" placeholder="press = for output">
+<br>
+For Subtraction:<br>
+<input type="text" id="n3" placeholder="Enter number">-<input type="text" id="n4" placeholder="Enter number">
+<button onclick="sub()">=</button> <input type="text" id="sub" value="" placeholder="press = for output">
+<br>
+For Multiplication:<br>
+<input type="text" id="n5" placeholder="Enter number">*<input type="text" id="n6" placeholder="Enter number">
+<button onclick="pro()">=</button> <input type="text" id="pro" value="" placeholder="press = for output">
+<br>
+For Division:<br>
+<input type="text" id="n7" placeholder="Enter number">/<input type="text" id="n8" placeholder="Enter number">
+<button onclick="quo()">=</button> <input type="text" id="quo" value="" placeholder="press = for output">
+<br>
+</div>
+
+<script>
+function add()
+ {
+  document.getElementById("add").value =parseInt(document.getElementById("n1").value)+
+parseInt(document.getElementById("n2").value) ;
+ }
+
+function sub()
+ {
+  document.getElementById("sub").value =parseInt(document.getElementById("n3").value)-
+parseInt(document.getElementById("n4").value) ;
+ }
+
+function pro()
+ {
+  document.getElementById("pro").value =parseInt(document.getElementById("n5").value)*
+parseInt(document.getElementById("n6").value) ;
+ }
+
+function quo()
+ {
+  document.getElementById("quo").value =parseInt(document.getElementById("n7").value)/
+parseInt(document.getElementById("n8").value) ;
+ }
+
+</script>
+</body>
+</html>
